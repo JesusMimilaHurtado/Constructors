@@ -40,5 +40,5 @@ const student1 = new Student('John', 'Doe', 20, 'Male', 'S12345', 'Computer Scie
 // console.log(student1.introduce()); // Output: Hello, my name is John Doe. I am a student enrolled in the Computer Science course.
 // console.log(student1.getStudentInfo()); // Output: Student ID: S12345, Course: Computer Science
 
-console.log(student1.introduceMe()); // Output: Hello, my name is John Doe. I am a student enrolled in the Computer Science course.
+console.log(student1.introduce()); // Output: Hello, my name is John Doe. I am a student enrolled in the Computer Science course.
 console.log(person1.introduceMe()); // Output: Hello, my name is Jane Smith.
